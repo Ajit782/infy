@@ -1,0 +1,76 @@
+17/03/2020 11:38:23 AM => Environment values............
+17/03/2020 11:38:23 AM => >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+17/03/2020 11:38:23 AM => Application on which executed : YBL
+17/03/2020 11:38:23 AM => Type of testing : REGRESSION
+17/03/2020 11:38:23 AM => Test environment on which application executed : 
+17/03/2020 11:38:23 AM => URL : null
+17/03/2020 11:38:23 AM => Driver Settings...>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+17/03/2020 11:38:23 AM => STARTFROMHOMEPAGE <null> : NO
+17/03/2020 11:38:23 AM => CLEARCOOKIEFOREACHTEST: NO
+17/03/2020 11:38:23 AM => JAVASCRIPTTIMEOUT: 60
+17/03/2020 11:38:23 AM => VERIFYJAVASCRIPTERRORS: YES
+17/03/2020 11:38:23 AM => ALERTAUTOACCEPT: NO
+17/03/2020 11:38:23 AM => Environment file location : C:\iprogrammerAutomation/Config/Env.xml
+17/03/2020 11:38:23 AM => Executed on browser : null
+17/03/2020 11:38:23 AM => Repository location : C:\iprogrammerAutomation/Repository/YBL_OR.xls
+17/03/2020 11:38:23 AM => Suite file name and location : C:\iprogrammerAutomation/Suites/YBL_REGRESSION_Suite.xls
+17/03/2020 11:38:23 AM => Test execution report file : C:\iprogrammerAutomation/Reports/17-03-2020_11-38-23-AM_REGRESSION/YBL_TA_Report_null_17-03-2020_11-38-23-AM.xls
+17/03/2020 11:38:23 AM => Test execution log file : C:\iprogrammerAutomation/Log/Log_17-03-2020_11-38-23-AM.log
+17/03/2020 11:38:23 AM => >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+17/03/2020 11:38:23 AM => TEMPLORARY CURRENT EXECUTION PARAMETERS:
+17/03/2020 11:38:23 AM => Templorary folder path : C:\iprogrammerAutomation/Reports/17-03-2020_11-38-23-AM_REGRESSION/Temp/
+17/03/2020 11:38:23 AM => Templorary TestSuite path : C:\iprogrammerAutomation/Suites/YBL_REGRESSION_Suite.xls
+17/03/2020 11:38:23 AM => Templorary TestLog path : C:\iprogrammerAutomation/Reports/17-03-2020_11-38-23-AM_REGRESSION/Temp/TestExecutionLog.txt
+17/03/2020 11:38:23 AM => Screen shot location for this execution : C:\iprogrammerAutomation/Reports/17-03-2020_11-38-23-AM_REGRESSION/Temp/
+17/03/2020 11:38:23 AM => >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+17/03/2020 11:38:23 AM => Start Processing OR for YBL App...
+17/03/2020 11:38:23 AM => Processing OR for YBL App has been completed in row : 48
+17/03/2020 11:38:23 AM => Test Execution was started...
+17/03/2020 11:38:23 AM => Start processing script file : MVAOffersPrepaid
+17/03/2020 11:38:23 AM => Processing to add Common Steps...
+17/03/2020 11:38:23 AM => Process of add Common Steps - Completed
+17/03/2020 11:38:23 AM => Launch Web Driver process...
+17/03/2020 11:38:54 AM => Error In the processing of Script file... Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\AjitKumarThakur\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s b28e6aea shell pm install -r /data/local/tmp/appium_cache/0cc1725a60a05dbb5d0d09256f2fc6ece7e3b10f.apk' exited with code 1'; Stderr: ''; Code: '1'
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-7H6C2GA', ip: '9.85.127.171', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: AppiumDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\AjitKumarThakur\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s b28e6aea shell pm install -r /data/local/tmp/appium_cache/0cc1725a60a05dbb5d0d09256f2fc6ece7e3b10f.apk' exited with code 1'; Stderr: ''; Code: '1'
+    at getResponseForW3CError (C:\Program Files\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Program Files\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-7H6C2GA', ip: '9.85.127.171', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: AppiumDriver
+17/03/2020 11:38:54 AM => Details:org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\AjitKumarThakur\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s b28e6aea shell pm install -r /data/local/tmp/appium_cache/0cc1725a60a05dbb5d0d09256f2fc6ece7e3b10f.apk' exited with code 1'; Stderr: ''; Code: '1'
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-7H6C2GA', ip: '9.85.127.171', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: AppiumDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\AjitKumarThakur\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s b28e6aea shell pm install -r /data/local/tmp/appium_cache/0cc1725a60a05dbb5d0d09256f2fc6ece7e3b10f.apk' exited with code 1'; Stderr: ''; Code: '1'
+    at getResponseForW3CError (C:\Program Files\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Program Files\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-7H6C2GA', ip: '9.85.127.171', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: AppiumDriver
+17/03/2020 11:38:54 AM => Details:Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\AjitKumarThakur\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s b28e6aea shell pm install -r /data/local/tmp/appium_cache/0cc1725a60a05dbb5d0d09256f2fc6ece7e3b10f.apk' exited with code 1'; Stderr: ''; Code: '1'
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-7H6C2GA', ip: '9.85.127.171', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: AppiumDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Error executing adbExec. Original error: 'Command 'C:\\Users\\AjitKumarThakur\\AppData\\Local\\Android\\Sdk\\platform-tools\\adb.exe -P 5037 -s b28e6aea shell pm install -r /data/local/tmp/appium_cache/0cc1725a60a05dbb5d0d09256f2fc6ece7e3b10f.apk' exited with code 1'; Stderr: ''; Code: '1'
+    at getResponseForW3CError (C:\Program Files\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Program Files\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:388:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-7H6C2GA', ip: '9.85.127.171', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: AppiumDriver
+17/03/2020 11:38:54 AM => driver Close Exception null
+17/03/2020 11:38:54 AM => Processing Suite file was completed in row:4
+17/03/2020 11:38:54 AM => ==================================
+17/03/2020 11:38:54 AM => Total Statistics: 
+17/03/2020 11:38:54 AM => Total Tests Run : 1
+17/03/2020 11:38:54 AM => Tests PASSED : 0
+17/03/2020 11:38:54 AM => Tests FAILED : 1
+17/03/2020 11:38:54 AM => JavaScript Errors : 0
+17/03/2020 11:38:54 AM => ==================================
+17/03/2020 11:38:54 AM => ***TEST RUN FAILED***
+17/03/2020 11:38:54 AM => ***********Execution Completed Successfully**********

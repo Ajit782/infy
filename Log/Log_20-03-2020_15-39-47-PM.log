@@ -1,0 +1,97 @@
+20/03/2020 15:39:47 PM => Environment values............
+20/03/2020 15:39:47 PM => >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+20/03/2020 15:39:47 PM => Application on which executed : YBL
+20/03/2020 15:39:47 PM => Type of testing : REGRESSION
+20/03/2020 15:39:47 PM => Test environment on which application executed : 
+20/03/2020 15:39:47 PM => URL : null
+20/03/2020 15:39:47 PM => Driver Settings...>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+20/03/2020 15:39:47 PM => STARTFROMHOMEPAGE <null> : NO
+20/03/2020 15:39:47 PM => CLEARCOOKIEFOREACHTEST: NO
+20/03/2020 15:39:47 PM => JAVASCRIPTTIMEOUT: 60
+20/03/2020 15:39:47 PM => VERIFYJAVASCRIPTERRORS: YES
+20/03/2020 15:39:47 PM => ALERTAUTOACCEPT: NO
+20/03/2020 15:39:47 PM => Environment file location : C:\iprogrammerAutomation/Config/Env.xml
+20/03/2020 15:39:47 PM => Executed on browser : null
+20/03/2020 15:39:47 PM => Repository location : C:\iprogrammerAutomation/Repository/YBL_OR.xls
+20/03/2020 15:39:47 PM => Suite file name and location : C:\iprogrammerAutomation/Suites/YBL_REGRESSION_Suite.xls
+20/03/2020 15:39:47 PM => Test execution report file : C:\iprogrammerAutomation/Reports/20-03-2020_15-39-47-PM_REGRESSION/YBL_TA_Report_null_20-03-2020_15-39-47-PM.xls
+20/03/2020 15:39:47 PM => Test execution log file : C:\iprogrammerAutomation/Log/Log_20-03-2020_15-39-47-PM.log
+20/03/2020 15:39:47 PM => >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+20/03/2020 15:39:47 PM => TEMPLORARY CURRENT EXECUTION PARAMETERS:
+20/03/2020 15:39:47 PM => Templorary folder path : C:\iprogrammerAutomation/Reports/20-03-2020_15-39-47-PM_REGRESSION/Temp/
+20/03/2020 15:39:47 PM => Templorary TestSuite path : C:\iprogrammerAutomation/Suites/YBL_REGRESSION_Suite.xls
+20/03/2020 15:39:47 PM => Templorary TestLog path : C:\iprogrammerAutomation/Reports/20-03-2020_15-39-47-PM_REGRESSION/Temp/TestExecutionLog.txt
+20/03/2020 15:39:47 PM => Screen shot location for this execution : C:\iprogrammerAutomation/Reports/20-03-2020_15-39-47-PM_REGRESSION/Temp/
+20/03/2020 15:39:47 PM => >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+20/03/2020 15:39:47 PM => Environment values............
+20/03/2020 15:39:47 PM => >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+20/03/2020 15:39:47 PM => Application on which executed : YBL
+20/03/2020 15:39:47 PM => Type of testing : REGRESSION
+20/03/2020 15:39:47 PM => Test environment on which application executed : 
+20/03/2020 15:39:47 PM => URL : null
+20/03/2020 15:39:47 PM => Driver Settings...>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+20/03/2020 15:39:47 PM => STARTFROMHOMEPAGE <null> : NO
+20/03/2020 15:39:47 PM => CLEARCOOKIEFOREACHTEST: NO
+20/03/2020 15:39:47 PM => JAVASCRIPTTIMEOUT: 60
+20/03/2020 15:39:47 PM => VERIFYJAVASCRIPTERRORS: YES
+20/03/2020 15:39:47 PM => ALERTAUTOACCEPT: NO
+20/03/2020 15:39:47 PM => Environment file location : C:\iprogrammerAutomation/Config/Env.xml
+20/03/2020 15:39:47 PM => Executed on browser : null
+20/03/2020 15:39:47 PM => Repository location : C:\iprogrammerAutomation/Repository/YBL_OR.xls
+20/03/2020 15:39:47 PM => Suite file name and location : C:\iprogrammerAutomation/Suites/YBL_REGRESSION_Suite.xls
+20/03/2020 15:39:47 PM => Test execution report file : C:\iprogrammerAutomation/Reports/20-03-2020_15-39-47-PM_REGRESSION/YBL_TA_Report_null_20-03-2020_15-39-47-PM.xls
+20/03/2020 15:39:47 PM => Test execution log file : C:\iprogrammerAutomation/Log/Log_20-03-2020_15-39-47-PM.log
+20/03/2020 15:39:47 PM => >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+20/03/2020 15:39:47 PM => TEMPLORARY CURRENT EXECUTION PARAMETERS:
+20/03/2020 15:39:48 PM => Templorary folder path : C:\iprogrammerAutomation/Reports/20-03-2020_15-39-47-PM_REGRESSION/Temp/
+20/03/2020 15:39:48 PM => Templorary TestSuite path : C:\iprogrammerAutomation/Suites/YBL_REGRESSION_Suite.xls
+20/03/2020 15:39:48 PM => Templorary TestLog path : C:\iprogrammerAutomation/Reports/20-03-2020_15-39-47-PM_REGRESSION/Temp/TestExecutionLog.txt
+20/03/2020 15:39:48 PM => Screen shot location for this execution : C:\iprogrammerAutomation/Reports/20-03-2020_15-39-47-PM_REGRESSION/Temp/
+20/03/2020 15:39:48 PM => >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+20/03/2020 15:39:48 PM => Start Processing OR for YBL App...
+20/03/2020 15:39:48 PM => Processing OR for YBL App has been completed in row : 56
+20/03/2020 15:39:48 PM => Test Execution was started...
+20/03/2020 15:39:48 PM => Start processing script file : OfferPrepaid1
+20/03/2020 15:39:48 PM => Processing to add Common Steps...
+20/03/2020 15:39:48 PM => Process of add Common Steps - Completed
+20/03/2020 15:39:48 PM => Launch Web Driver process...
+20/03/2020 15:39:52 PM => Error In the processing of Script file... Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-7H6C2GA', ip: '9.85.111.147', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: AppiumDriver
+20/03/2020 15:39:52 PM => Details:org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-7H6C2GA', ip: '9.85.111.147', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: AppiumDriver
+20/03/2020 15:39:52 PM => Details:Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-7H6C2GA', ip: '9.85.111.147', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: AppiumDriver
+20/03/2020 15:39:52 PM => driver Close Exception null
+20/03/2020 15:39:53 PM => Start processing script file : OfferPrepaid2
+20/03/2020 15:39:53 PM => Processing to add Common Steps...
+20/03/2020 15:39:53 PM => Process of add Common Steps - Completed
+20/03/2020 15:39:53 PM => Launch Web Driver process...
+20/03/2020 15:39:55 PM => Error In the processing of Script file... Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-7H6C2GA', ip: '9.85.111.147', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: AppiumDriver
+20/03/2020 15:39:55 PM => Details:org.openqa.selenium.WebDriverException: Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-7H6C2GA', ip: '9.85.111.147', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: AppiumDriver
+20/03/2020 15:39:55 PM => Details:Connection refused: connect
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-7H6C2GA', ip: '9.85.111.147', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: driver.version: AppiumDriver
+20/03/2020 15:39:55 PM => driver Close Exception null
+20/03/2020 15:39:55 PM => Processing Suite file was completed in row:91
+20/03/2020 15:39:55 PM => ==================================
+20/03/2020 15:39:55 PM => Total Statistics: 
+20/03/2020 15:39:55 PM => Total Tests Run : 2
+20/03/2020 15:39:55 PM => Tests PASSED : 0
+20/03/2020 15:39:55 PM => Tests FAILED : 2
+20/03/2020 15:39:55 PM => JavaScript Errors : 0
+20/03/2020 15:39:55 PM => ==================================
+20/03/2020 15:39:55 PM => ***TEST RUN FAILED***
+20/03/2020 15:39:55 PM => ***********Execution Completed Successfully**********

@@ -1,0 +1,72 @@
+17/03/2020 15:38:41 PM => Environment values............
+17/03/2020 15:38:41 PM => >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+17/03/2020 15:38:41 PM => Application on which executed : YBL
+17/03/2020 15:38:41 PM => Type of testing : REGRESSION
+17/03/2020 15:38:41 PM => Test environment on which application executed : 
+17/03/2020 15:38:41 PM => URL : null
+17/03/2020 15:38:41 PM => Driver Settings...>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+17/03/2020 15:38:41 PM => STARTFROMHOMEPAGE <null> : NO
+17/03/2020 15:38:41 PM => CLEARCOOKIEFOREACHTEST: NO
+17/03/2020 15:38:41 PM => JAVASCRIPTTIMEOUT: 60
+17/03/2020 15:38:41 PM => VERIFYJAVASCRIPTERRORS: YES
+17/03/2020 15:38:41 PM => ALERTAUTOACCEPT: NO
+17/03/2020 15:38:41 PM => Environment file location : C:\iprogrammerAutomation/Config/Env.xml
+17/03/2020 15:38:41 PM => Executed on browser : null
+17/03/2020 15:38:41 PM => Repository location : C:\iprogrammerAutomation/Repository/YBL_OR.xls
+17/03/2020 15:38:41 PM => Suite file name and location : C:\iprogrammerAutomation/Suites/YBL_REGRESSION_Suite.xls
+17/03/2020 15:38:41 PM => Test execution report file : C:\iprogrammerAutomation/Reports/17-03-2020_15-38-41-PM_REGRESSION/YBL_TA_Report_null_17-03-2020_15-38-41-PM.xls
+17/03/2020 15:38:41 PM => Test execution log file : C:\iprogrammerAutomation/Log/Log_17-03-2020_15-38-41-PM.log
+17/03/2020 15:38:41 PM => >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+17/03/2020 15:38:41 PM => TEMPLORARY CURRENT EXECUTION PARAMETERS:
+17/03/2020 15:38:41 PM => Templorary folder path : C:\iprogrammerAutomation/Reports/17-03-2020_15-38-41-PM_REGRESSION/Temp/
+17/03/2020 15:38:41 PM => Templorary TestSuite path : C:\iprogrammerAutomation/Suites/YBL_REGRESSION_Suite.xls
+17/03/2020 15:38:41 PM => Templorary TestLog path : C:\iprogrammerAutomation/Reports/17-03-2020_15-38-41-PM_REGRESSION/Temp/TestExecutionLog.txt
+17/03/2020 15:38:41 PM => Screen shot location for this execution : C:\iprogrammerAutomation/Reports/17-03-2020_15-38-41-PM_REGRESSION/Temp/
+17/03/2020 15:38:41 PM => >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+17/03/2020 15:38:41 PM => Start Processing OR for YBL App...
+17/03/2020 15:38:41 PM => Processing OR for YBL App has been completed in row : 50
+17/03/2020 15:38:41 PM => Test Execution was started...
+17/03/2020 15:38:41 PM => Start processing script file : OfferPrepaid1
+17/03/2020 15:38:41 PM => Processing to add Common Steps...
+17/03/2020 15:38:41 PM => Process of add Common Steps - Completed
+17/03/2020 15:38:41 PM => Launch Web Driver process...
+17/03/2020 15:39:19 PM => Script path : C:\iprogrammerAutomation/Reports/17-03-2020_15-38-41-PM_REGRESSION/Temp/OfferPrepaid1.xls
+17/03/2020 15:39:19 PM => Step ID :--------- Step_R01
+17/03/2020 15:39:26 PM => Element :AM_VerifyfodaApppresent - Pass
+17/03/2020 15:39:26 PM => Step ID :--------- Step_R02
+17/03/2020 15:39:27 PM => Element :AM_VerifyfodaApppresent - Pass
+17/03/2020 15:39:27 PM => Step ID :--------- Step_R03
+17/03/2020 15:39:35 PM => Enter text into :AM_EnterMSIDNo - Pass
+17/03/2020 15:39:35 PM => Step ID :--------- Step_R04
+17/03/2020 15:39:36 PM => Click on :AM_clickOnSendOTP - Pass
+17/03/2020 15:39:37 PM => Step ID :--------- Step_R05
+17/03/2020 15:39:56 PM => Exception from KeyAction (WebDriverException)
+17/03/2020 15:39:56 PM => Reason: The element 'By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[1]/android.view.View[4]/android.widget.EditText' does not exist in DOM anymore
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-7H6C2GA', ip: '9.85.127.171', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Users\AjitKumarThakur\vo..., appPackage: com.mventus.selfcare.activity, appWaitActivity: com.mventus.selfcare.activi..., appWaitDuration: 15000, automationName: UiAutomator2, browserName: , databaseEnabled: false, desired: {app: C:\Users\AjitKumarThakur\vo..., appWaitActivity: com.mventus.selfcare.activi..., appWaitDuration: 15000, automationName: UiAutomator2, browserName: , deviceName: b28e6aea, newCommandTimeout: 520, noReset: true, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Xiaomi, deviceModel: Redmi Note 7 Pro, deviceName: b28e6aea, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: b28e6aea, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 520, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 80, takesScreenshot: true, viewportRect: {height: 2051, left: 0, top: 80, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: c0542591-af0f-407c-a0f7-4666bdf65433
+17/03/2020 15:39:56 PM => Details: org.openqa.selenium.StaleElementReferenceException: The element 'By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.webkit.WebView/android.webkit.WebView/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[1]/android.view.View[4]/android.widget.EditText' does not exist in DOM anymore
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DESKTOP-7H6C2GA', ip: '9.85.127.171', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_162'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:\Users\AjitKumarThakur\vo..., appPackage: com.mventus.selfcare.activity, appWaitActivity: com.mventus.selfcare.activi..., appWaitDuration: 15000, automationName: UiAutomator2, browserName: , databaseEnabled: false, desired: {app: C:\Users\AjitKumarThakur\vo..., appWaitActivity: com.mventus.selfcare.activi..., appWaitDuration: 15000, automationName: UiAutomator2, browserName: , deviceName: b28e6aea, newCommandTimeout: 520, noReset: true, platformName: android, platformVersion: 9}, deviceApiLevel: 28, deviceManufacturer: Xiaomi, deviceModel: Redmi Note 7 Pro, deviceName: b28e6aea, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: b28e6aea, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 520, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 9, statBarHeight: 80, takesScreenshot: true, viewportRect: {height: 2051, left: 0, top: 80, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: c0542591-af0f-407c-a0f7-4666bdf65433
+17/03/2020 15:39:57 PM => Close Webdriver Process - Completed
+17/03/2020 15:39:57 PM => *******************************************************************
+17/03/2020 15:39:57 PM => ***** Test script result :Fail*****
+17/03/2020 15:39:57 PM => *** Test script Execution Time: 00:37.3 ***
+17/03/2020 15:39:57 PM => *******************************************************************
+17/03/2020 15:39:57 PM => Processing Suite file was completed in row:91
+17/03/2020 15:39:57 PM => ==================================
+17/03/2020 15:39:57 PM => Total Statistics: 
+17/03/2020 15:39:57 PM => Total Tests Run : 1
+17/03/2020 15:39:57 PM => Tests PASSED : 0
+17/03/2020 15:39:57 PM => Tests FAILED : 1
+17/03/2020 15:39:57 PM => JavaScript Errors : 0
+17/03/2020 15:39:57 PM => ==================================
+17/03/2020 15:39:57 PM => ***TEST RUN FAILED***
+17/03/2020 15:39:57 PM => ***********Execution Completed Successfully**********
